@@ -1,13 +1,33 @@
-### Boas vindas ao meu perfil 💟
+#Olá, eu sou a Mariane Santos  
 
-Meu nome é Mariane Ferreira
+🎓 Estudante de Ciências de Computação no Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP)  
+💻 Explorando programação em C e fundamentos de computação  
+🚀 Apaixonada por aprender, resolver problemas e criar soluções com tecnologia  
 
-- Estou estudando no [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+---
 
-### Você pode entrar em contato comigo 📬
+## 🔧 Tecnologias & Ferramentas
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-marianeferreira022007@gmail.com
+---
 
-![](https://media1.tenor.com/m/sRCdp4IKweAAAAAC/ana-blottiaux-cute.gif)
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
+---
+
+## 🚀 Minha Jornada
+- 🎓 Iniciei Ciência da Computação em 2025  
+- 📚 Aprendendo fundamentos de programação e lógica computacional  
+- 💡 Explorando desenvolvimento de projetos e boas práticas com GitHub  
+- 🎯 Próximos passos: Python  
+
+---
+
+## 🌐 Onde me encontrar
+📫 [E-mail] marianeferreira022007@gmail.com  
+💼 [LinkedIn]([https://www.linkedin.com/in/seuusuario/](https://www.linkedin.com/in/mariane-ferreira-3b92a136a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
