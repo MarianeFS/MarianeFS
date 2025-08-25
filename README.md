@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Minha Jornada
-- 🎓 Iniciei Ciência da Computação em 2025  
+- 🎓 Iniciei Ciências de Computação em 2025  
 - 📚 Aprendendo fundamentos de programação e lógica computacional  
 - 💡 Explorando desenvolvimento de projetos e boas práticas com GitHub  
 - 🎯 Próximos passos: Python  
