@@ -14,12 +14,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
-
----
-
 ## 🚀 Minha Jornada
 - 🎓 Iniciei Ciência da Computação em 2025  
 - 📚 Aprendendo fundamentos de programação e lógica computacional  
@@ -30,4 +24,4 @@
 
 ## 🌐 Onde me encontrar
 📫 [E-mail] marianeferreira022007@gmail.com  
-💼 [LinkedIn]([https://www.linkedin.com/in/seuusuario/](https://www.linkedin.com/in/mariane-ferreira-3b92a136a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+💼 [LinkedIn] https://www.linkedin.com/in/mariane-ferreira-3b92a136a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
