@@ -11,13 +11,6 @@
 ![](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)
 ![](https://img.shields.io/badge/python-3570A3?style=for-the-badge&logo=python&logoColor=white)
 
-
----
-
-## 🚀 Minha Jornada
-- 🎓 Iniciei Ciências de Computação em 2025  
-- 📚 Aprendendo fundamentos de programação e lógica computacional  
-
 ---
 
 ## 🌐 Onde me encontrar
