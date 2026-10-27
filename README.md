@@ -1,7 +1,6 @@
 ## Olá, eu sou Mariane Santos  
 
 🎓 Estudante de Ciências de Computação no Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP)  
-🚀 Apaixonada por aprender, resolver problemas e criar soluções com tecnologia  
 
 ---
 
